@@ -10,8 +10,7 @@ A full stack app, which helps to track issues/bugs for the Project.
 ### Live 
 
 
-https://issue-tracker-1awl.onrender.com
-
+https://issue-track-gm3f.onrender.com
 
 ### Tech Stack
 
@@ -22,7 +21,7 @@ To install and run the application, follow the steps below:
 2. Navigate to the project directory
 3. Install the dependencies - `npm install`
 4. Create a `.env` file in the root directory with the following environment variables: -
-    - `PORT=5000`
+    - `PORT=8000`
     - `MONGODB_URI=<your_mongodb_uri>`
 5. Start the server: `npm start`
 6. Open the app in your web browser at `http://localhost:5000`
